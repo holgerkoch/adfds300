@@ -1,7 +1,7 @@
 # adfds300
 alternate display for CBE DS300
 
-Goal of the project is, to create a sheap but functional alternate display for the ELB CBE DS300. At the moment, the following characteristics are planed:
+Goal of the project is, to create a cheap but functional alternate display for the ELB CBE DS300. At the moment, the following characteristics are planed:
 
 * visualization of all information vom the DS 300. For example: water, dump water, connection between the batteries (simulated D+), voltage of B1 and B2, temperature in/out
 * time and date from GPS

@@ -47,3 +47,6 @@ Thoughts on data consumption:
 * the tracking of the camper cost about 50 Byte per position. The Pico (owntracks for ESP8266) publishes (or serializes to the file system if it’s offline) a location when it detects it’s moved mindist meters (100 by default) and 5 seconds interval have elapsed. Depending on speed and distance, you will need max. 720 plots per hour, 36 kByte per hour. If you drive 2 hours a day, you need about 2,5 MByte per month.
 * update the timezone information after each engine stop. For 4 stops a day you need 60KB per month. 
 * At the moment, with a sim card from http://datamobile.ag/wp-content/uploads/2015/08/tarifblatt.pdf, you pay 20 cents per MByte in whole europe. So it cost 60 cent plus 1€ monthly maintenance fee (only when card has been used).
+
+
+![alt tag](https://www.wohnmobilforum.de/bilderdienst/wohnmobile/Display_74427_1765.JPG)
